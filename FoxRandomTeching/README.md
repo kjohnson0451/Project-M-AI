@@ -6,7 +6,7 @@ After being sent in the tumble state, this Fox CPU will tech in a random directi
 
 This AI only works in Training Mode. The CPU must be set to "Stop", "Walk", or "Jump". Fox will only tech if both him and your character are on ground level (no platforms).
 
-All of Fox's other AI behavior has been stripped. He is functionally useless as a traditional CPU, and he will not attempt to recover after being thrown off the ledge.
+All of Fox's other AI behavior has been stripped. He is functionally useless as a traditional CPU, and he will not attempt to recover after being thrown off the stage.
 
 
 #Installation:

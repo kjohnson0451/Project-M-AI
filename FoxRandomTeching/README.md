@@ -1,6 +1,6 @@
 #Description:
 
-A Fox AI meant for Super Smash Bros. Project M.
+A Fox AI for Super Smash Bros. Project M.
 
 After being sent in the tumble state, this Fox CPU will tech in a random direction. This AI is chiefly meant for practicing tech-chasing on the Training Stage.
 

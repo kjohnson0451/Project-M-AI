@@ -4,7 +4,7 @@ A Fox AI for Super Smash Bros. Project M.
 
 After being sent in the tumble state, this Fox CPU will tech in a random direction. This AI is chiefly meant for practicing tech-chasing on the Training Stage.
 
-This AI only works in CPU training mode. The CPU must be set to "Stop", "Walk", or "Jump". Fox will only tech if both him and your character are on ground level (no platforms).
+This AI only works in Training Mode. The CPU must be set to "Stop", "Walk", or "Jump". Fox will only tech if both him and your character are on ground level (no platforms).
 
 All of Fox's other AI behavior has been stripped. He is functionally useless as a traditional CPU, and he will not attempt to recover after being thrown off the ledge.
 

@@ -1,0 +1,275 @@
+#include <Definition_AIPD.h>
+//Attack dice roll table
+//_____On ground_____
+slot0 {
+    Nothing 100,100
+}
+
+slot1 {
+    Nothing 100,100
+}
+
+slot2 {
+    Nothing 100,100
+}
+
+slot3 {
+    Nothing 100,100
+}
+
+slot4 {
+    Nothing 100,100
+}
+
+slot5 {
+    Nothing 100,100
+}
+
+slot6 {
+    Nothing 100,100
+}
+
+slot7 {
+    Nothing 100,100
+}
+
+slot8 {
+    Nothing 100,100
+}
+
+slot9 {
+    Nothing 100,100
+}
+
+slot10 {
+    Nothing 100,100
+}
+
+//_____In air_____
+slot11 {
+    Nothing 100,100
+}
+
+slot12 {
+    Nothing 100,100
+}
+
+slot13 {
+    Nothing 100,100
+}
+
+slot14 {
+    Nothing 100,100
+}
+
+slot15 {
+    Nothing 100,100
+}
+
+slot16 {
+    Nothing 100,100
+}
+
+slot17 {
+    Nothing 100,100
+}
+
+slot18 {
+    Nothing 100,100
+}
+
+slot19 {
+    Nothing 100,100
+}
+
+slot20 {
+    Nothing 100,100
+}
+
+slot21 {
+    Nothing 100,100
+}
+
+slot22 {
+    Nothing 100,100
+}
+
+slot23 {
+    Nothing 100,100
+}
+
+
+//Routine call table
+//_____Section1 starts_____
+//Entry number : 0x0
+InAir {
+    OnGotDamaged 100,100,100,0
+}
+
+//_____Section1 ends_____
+//Threshold values
+defmax.float1=0.00
+defmax.float2=0.00
+defmax.byte1=0x0
+defmax.byte2=0x0
+defmax.byte3=0x0
+defmax.byte4=0x0
+defmax.byte5=0x0
+defmax.byte6=0x0
+defmax.byte7=0x0
+defmax.byte8=0x0
+defmax.float3=0.00
+defmax.float4=0.00
+defmax.byte9=0x0
+defmax.byte10=0x0
+defmax.byte11=0x0
+defmax.byte12=0x0
+defmax.float5=0.00
+defmax.float6=0.00
+defmax.short1=0x0
+defmax.short2=0x0
+defmax.float7=0.00
+defmax.byte13=0x0
+defmax.byte14=0x0
+defmax.byte15=0x0
+defmax.byte16=0x0
+defmax.float8=0.00
+defmax.float9=0.00
+defmax.float10=0.00
+defmax.float11=0.00
+defmax.int1=0x0
+defmax.int2=0x0
+defmax.int3=0x0
+defmax.int4=0x0
+defmax.int5=0x0
+defmax.int6=0x0
+defmax.byte17=0x0
+defmax.byte18=0x0
+defmax.byte19=0x0
+defmax.byte20=0x0
+defmax.byte21=0x0
+defmax.byte22=0x0
+defmax.byte23=0x0
+defmax.byte24=0x0
+defmin.float1=0.00
+defmin.float2=0.00
+defmin.byte1=0x0
+defmin.byte2=0x0
+defmin.byte3=0x0
+defmin.byte4=0x0
+defmin.byte5=0x0
+defmin.byte6=0x0
+defmin.byte7=0x0
+defmin.byte8=0x0
+defmin.float3=0.00
+defmin.float4=0.00
+defmin.byte9=0x0
+defmin.byte10=0x0
+defmin.byte11=0x0
+defmin.byte12=0x0
+defmin.float5=0.00
+defmin.float6=0.00
+defmin.short1=0x0
+defmin.short2=0x0
+defmin.float7=0.00
+defmin.byte13=0x0
+defmin.byte14=0x0
+defmin.byte15=0x0
+defmin.byte16=0x0
+defmin.float8=0.00
+defmin.float9=0.00
+defmin.float10=0.00
+defmin.float11=0.00
+defmin.int1=0x0
+defmin.int2=0x0
+defmin.int3=0x0
+defmin.int4=0x0
+defmin.int5=0x0
+defmin.int6=0x0
+defmin.byte17=0x0
+defmin.byte18=0x0
+defmin.byte19=0x0
+defmin.byte20=0x0
+defmin.byte21=0x0
+defmin.byte22=0x0
+defmin.byte23=0x0
+defmin.byte24=0x0
+submax.byte1=0x0
+submax.byte2=0x0
+submax.byte3=0x0
+submax.byte4=0x0
+submax.byte5=0x0
+submax.byte6=0x0
+submax.byte7=0x0
+submax.byte8=0x0
+submax.float1=0.00
+submax.float2=0.00
+submax.short1=0x0
+submax.short2=0x0
+submax.short3=0x0
+submax.short4=0x0
+submax.byte9=0x0
+submax.byte10=0x0
+submax.byte11=0x0
+submax.byte12=0x0
+submax.byte13=0x0
+submax.byte14=0x0
+submax.byte15=0x0
+submax.byte16=0x0
+submax.byte17=0x0
+submax.byte18=0x0
+submax.byte19=0x0
+submax.pad1=0x0
+submax.pad2=0x0
+submax.pad3=0x0
+submax.pad4=0x0
+submin.byte1=0x0
+submin.byte2=0x0
+submin.byte3=0x0
+submin.byte4=0x0
+submin.byte5=0x0
+submin.byte6=0x0
+submin.byte7=0x0
+submin.byte8=0x0
+submin.float1=0.00
+submin.float2=0.00
+submin.short1=0x0
+submin.short2=0x0
+submin.short3=0x0
+submin.short4=0x0
+submin.byte9=0x0
+submin.byte10=0x0
+submin.byte11=0x0
+submin.byte12=0x0
+submin.byte13=0x0
+submin.byte14=0x0
+submin.byte15=0x0
+submin.byte16=0x0
+submin.byte17=0x0
+submin.byte18=0x0
+submin.byte19=0x0
+submin.pad1=0x0
+submin.pad2=0x0
+submin.pad3=0x0
+submin.pad4=0x0
+unk.section1Start=0x0
+unk.section1End=0x0
+unk.section2Start=0x0
+unk.section2End=0x0
+unk.section3Start=0x0
+unk.section3End=0x0
+unk.unk1=0x0
+unk.unk2=0x0
+unk.unk3=0x0
+unk.unk4=0x0
+unk.unk5=0x0
+unk.unk6=0x0
+unk.unk7=0x0
+unk.unk8=0x0
+unk.unk9=0x0
+unk.unk10=0x0
+unk.unk11=0x0
+unk.unk12=0x0
+unk.unk13=0x0
+unk.unk14=0x0
+unk.unk15=0x0

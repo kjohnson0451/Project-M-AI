@@ -9,4 +9,4 @@ All of Fox's other AI behavior has been stripped. He will not attempt to recover
 
 #Installation:
 
-Drop [FitFoxMotionEtc.pac](FoxRandomTeching/FitFoxMotionEtc.pac) into projectm/pf/fighter/fox on your SD card. Back up the previous FitFoxMotionEtc.pac file if you wish.
+Drop [FitFoxMotionEtc.pac](https://github.com/kjohnson0451/Project-M-AI/raw/master/FoxRandomTeching/FitFoxMotionEtc.pac) into projectm/pf/fighter/fox on your SD card. Back up the previous FitFoxMotionEtc.pac file if you wish.

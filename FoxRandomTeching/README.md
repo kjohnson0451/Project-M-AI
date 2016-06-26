@@ -12,3 +12,8 @@ All of Fox's other AI behavior has been stripped. He is functionally useless as 
 #Installation:
 
 Drop [FitFoxMotionEtc.pac](https://github.com/kjohnson0451/Project-M-AI/raw/master/FoxRandomTeching/FitFoxMotionEtc.pac) into projectm/pf/fighter/fox on your SD card. Back up the previous FitFoxMotionEtc.pac file if you wish.
+
+
+#Other Notes:
+
+I would love to have Fox do a shine or a spot-dodge after the tech, but that may be a ways off. Anyone else who would like to give it a shot can do so by downloading [AIScript](http://forums.kc-mm.com/index.php?topic=62818.0).

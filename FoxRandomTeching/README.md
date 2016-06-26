@@ -20,3 +20,6 @@ Drop [FitFoxMotionEtc.pac](https://github.com/kjohnson0451/Project-M-AI/raw/mast
 - Getting Fox to do missed-tech follow ups (get-up attack, roll left/right etc.) If I allowed him to do miss-techs, all I could get him to do would be a normal get-up.
 
 If you would like to take a shot at adding these capabilities, do so with [AIScript](http://forums.kc-mm.com/index.php?topic=62818.0). Though it may also be necessary to mess around with ASM and create some Gecko codes as well.
+
+#Other Notes:
+Credit goes to [KingClubber](http://smashboards.com/members/kingclubber.180553/) for providing the CPU behavior.

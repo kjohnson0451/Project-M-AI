@@ -12,7 +12,7 @@ In the even of a miss-tech, fox will only do a normal get-up.
 
 ##Installation:
 
-Drop [FitFoxMotionEtc.pac](https://github.com/kjohnson0451/Project-M-AI/raw/master/FoxRandomTeching/FitFoxMotionEtc.pac) into projectm/pf/fighter/fox on your SD card. Back up the previous FitFoxMotionEtc.pac file if you wish.
+Drop [FitFoxMotionEtc.pac](https://github.com/kjohnson0451/Project-M-AI/raw/master/FoxRandomTechingWithMissTech/FitFoxMotionEtc.pac) into projectm/pf/fighter/fox on your SD card. Back up the previous FitFoxMotionEtc.pac file if you wish.
 
 
 ##Desired Capabilities:

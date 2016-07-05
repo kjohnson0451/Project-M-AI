@@ -102,8 +102,8 @@ slot23 {
 //Routine call table
 //_____Section1 starts_____
 //Entry number : 0x0
-InAir {
-    OnGotDamaged 100,100,100,0
+True {
+    OnGotDamaged 100,100,0,0
 }
 
 //_____Section1 ends_____
